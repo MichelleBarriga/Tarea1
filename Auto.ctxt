@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=Auto
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Auto\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=modelo\ color\ placa\ pais
+comment1.target=Auto(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment10.params=auto\ nuevo_color
+comment10.target=Auto\ cambiarColor(Auto,\ java.lang.String)
+comment11.params=auto\ nuevo_pais
+comment11.target=Auto\ cambiarPais(Auto,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getModelo()
+comment3.params=nuevo
+comment3.target=void\ setModelo(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getColor()
+comment5.params=nuevo
+comment5.target=void\ setColor(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ getPlaca()
+comment7.params=nuevo
+comment7.target=void\ setPlaca(java.lang.String)
+comment8.params=
+comment8.target=java.lang.String\ getPais()
+comment9.params=nuevo
+comment9.target=void\ setPais(java.lang.String)
+numComments=12
